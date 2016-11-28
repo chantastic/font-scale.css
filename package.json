@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "pre-set font-scale with minions.css-style class names",
   "main": "font-scale.css",
+  "style": "font-scale.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
